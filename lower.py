@@ -1,3 +1,4 @@
+#convert the list into all lower case
 mystr="AAjhfaKHJG"
 ans=""
 for i in range(len(mystr)):
